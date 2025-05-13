@@ -3,13 +3,13 @@ import whatsapp from '../Components/img/sovito/whatsapp.png';
 import pin from '../Components/img/sovito/pin.png';
 import cart from '../Components/img/sovito/cart.png';
 import hero from '../Components/img/sovito/DSC07385 1.png';
-import dscImage from '../Components/img/sovito/DSC07364 1.png';
+//import dscImage from '../Components/img/sovito/DSC07364 1.png';
 import cafe1 from '../Components/img/sovito/DSC07231 1.png';
 import cafe2 from '../Components/img/sovito/DSC07244 1.png';
 import cafe3 from '../Components/img/sovito/DSC07363 1.png';
 import producao1 from '../Components/img/sovito/DSC07238 1.png';
-import producao2 from '../Components/img/sovito/DSC07235 1.png';
-import pacote from '../Components/img/sovito/DSC07392.png';
+//import producao2 from '../Components/img/sovito/DSC07235 1.png';
+//import pacote from '../Components/img/sovito/DSC07392.png';
 
 const Home: React.FC = () => {
   return (
