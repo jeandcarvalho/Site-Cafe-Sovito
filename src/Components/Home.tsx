@@ -60,7 +60,7 @@ const Home: React.FC = () => {
 
     {/* Imagem */}
     <div className="flex-shrink-0">
-      <img src={cafe1} className="h-44 rounded-xl shadow-md" />
+      <img src={cafe1} className="h-56 rounded-xl shadow-md" />
     </div>
     
   </div>
@@ -85,7 +85,7 @@ const Home: React.FC = () => {
 
     {/* Imagem */}
     <div className="flex-shrink-0">
-      <img src={sovitoImg} alt="Sô Vito" className="h-44 rounded-xl shadow-md" />
+      <img src={sovitoImg} alt="Sô Vito" className="h-56 rounded-xl shadow-md" />
     </div>
 
   </div>
