@@ -53,14 +53,14 @@ const Home: React.FC = () => {
     <div className="flex-1 text-center md:text-left">
       <h2 className="text-3xl font-serif mb-2">Safra 2024/2025</h2>
       <h3 className="text-4xl font-serif mb-6">do pé para sua casa</h3>
-      <p className="text-base md:text-lg leading-relaxed max-w-3xl mb-8">
+      <p className="text-base md:text-lg leading-relaxed max-w-3xl mb-1">
         O blend perfeito das variedades catuaí amarelo e vermelho, este café possui notas de Chocolate amargo, caramelo e frutas negras, resultando em uma bebida irresistível e complexa. A classificação de 83 pontos SCA comprova sua qualidade como café de especialidade, enquanto sua torra média clara proporciona uma experiência suave e complexa.
       </p>
     </div>
 
     {/* Imagem */}
     <div className="flex-shrink-0">
-      <img src={cafe1} className="h-80 rounded-xl shadow-md" />
+      <img src={cafe1} className="h-56 rounded-xl shadow-md" />
     </div>
     
   </div>
@@ -85,7 +85,7 @@ const Home: React.FC = () => {
 
     {/* Imagem */}
     <div className="flex-shrink-0">
-      <img src={sovitoImg} alt="Sô Vito" className="h-64 rounded-xl shadow-md" />
+      <img src={sovitoImg} alt="Sô Vito" className="h-52 rounded-xl shadow-md" />
     </div>
 
   </div>
